@@ -45,7 +45,8 @@
           '<ul class="dk_options_inner">',
           '</ul>',
         '</div>',
-      '</div>'
+      '</div>',
+      '<div class="dk_clear"></div>'
     ].join(''),
 
     // HTML template for dropdown options

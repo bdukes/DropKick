@@ -197,4 +197,8 @@
   visibility: hidden;
 }
 
+.dk_clear {
+  clear: left;
+}
+
 /***** End Critical to the continued enjoyment of working dropdowns ******/
